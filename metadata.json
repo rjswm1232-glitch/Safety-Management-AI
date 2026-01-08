@@ -1,0 +1,7 @@
+{
+  "name": "SafetyGuard AI: Industrial Risk Assessment",
+  "description": "An AI-powered industrial safety assistant that analyzes site photos for hazards and reviews safety risk assessment tables according to Korean safety laws.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
